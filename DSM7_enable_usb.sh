@@ -1,4 +1,3 @@
-Bash:
 #!/bin/sh
 # Enable USB Stick in DSM 7
 

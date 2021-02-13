@@ -38,7 +38,7 @@ To make use of this Binding first the local free@home API has to be activated. T
 ## Installing the binding
 As this binding is not in the official release of openhab, you will not find it in the "bindings" section.
 To use this binding please do the following steps:
-1. Download the latest jar file "here"
+1. Download the latest jar file [here](https://github.com/andrasU/openhab-free-home-binding/tree/main/org.openhab.binding.freeathomesystem/target)
 2. Upload the jar file to the user directory of your device running openhab
  1. for openhabian e.g: /usr/share/openhab/addons
  2. for others: /etc/openhab/addons/

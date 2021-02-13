@@ -64,6 +64,8 @@ To use this binding please do the following steps:
 
 [free@home user group Facebook EN](https://www.facebook.com/groups/452502972031360)
 
+[openHAB Community free@home](https://community.openhab.org/t/busch-jaeger-free-home/31043/469)
+
 # Known Issues
 lore ipsum
 
